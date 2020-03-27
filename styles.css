@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(to bottom right, #4b6cb7, #182848);
+    background-repeat: no-repeat;
+    height: auto;
+}
+
+#main-area{
+    width: 800px;
+    max-width: 800px;
+    text-align: center;
+    background-color: #018786;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main-area h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 130%;
+    padding-top: 10px;
+}
+
+#main-area div {
+    margin: 0 15px 0 15px;
+    padding: 5px 0 10px 0;
+}
+
+#main-area div p {
+    text-align: left;
+}
