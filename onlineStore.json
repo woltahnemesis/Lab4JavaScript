@@ -6,35 +6,35 @@
             "name" : "Uranium Ore",
             "price" : 39.95,
             "details" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks. And for more possessions to ditch, discover these 30 Home Decorations No One Over 30 Should Own.",
-            "image" : "uranium-ore.jpg"
+            "image" : "1.jpg"
         },
         
         {
             "name" : "Cat Butt Tissue Holder",
             "price" : 34.94,
             "details" : "This seems like the nicest thing to be plucked from a cat's rear since, well, ever. And who doesn't like to be stared down with peering, inquisitive eyes each time they need to blow their nose?",
-            "image" : "cat.jpg"
+            "image" : "2.jpg"
         },
         
         {
             "name" : "Bacon-scented Moustache",
             "price" : 4.07,
             "details" : "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
-            "image" : "mustache.jpg"
+            "image" : "3.jpg"
         },
         
         {
             "name" : "Baby Mop",
             "price" : 29.99,
             "details" : "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",
-            "image" : "baby-mop.jpg"
+            "image" : "4.jpg"
         },
         
         {
             "name" : "Realistic Dog Pillow",
             "price" : 14.99,
             "details" : "Just because your building doesn't allow pets doesn't mean you can't enjoy the company of a furry friend—albeit a not-so-animated one.",
-            "image" : "realistic-dog-pillow.jpg"
+            "image" : "5.jpg"
         }
         
     ]
